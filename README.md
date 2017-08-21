@@ -1,1 +1,2 @@
 # chattrbox
+Simple chat application
